@@ -1,6 +1,7 @@
 # 高中新校舍教學空間設備需求｜工作總冊 FINAL
 
 - 版本：FINAL｜含 03-112 金工／鐵工｜2026-10-03
+- 最後內容更新：2026-10-06（第 09 章自然實驗室）
 - 公開網站：https://areychiu.github.io/cixin-campus-space-workbook-final/
 - Google 工作總冊：以校內共同編修文件為準
 
